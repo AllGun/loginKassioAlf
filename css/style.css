@@ -92,7 +92,11 @@ button {
 }
 
 footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 7.8vh;
   background-color: #0d0d0d;
   border-top: 0.02vh solid #04bf9d;
+  color:#fff;
 }
