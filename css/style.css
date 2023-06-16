@@ -81,14 +81,14 @@ form input {
 }
 
 button {
-    width: 80px;
-    height: 40px;
-    font-size: 1em;
-    border-radius: 5px;
-    background-color: #0d0d0d;
-    color: #04bf9d;
-    border: 1px solid #04bf9d;
-    margin-top: 2em;
+  width: 80px;
+  height: 40px;
+  font-size: 1em;
+  border-radius: 5px;
+  background-color: #0d0d0d;
+  color: #04bf9d;
+  border: 1px solid #04bf9d;
+  margin-top: 2em;
 }
 
 footer {
